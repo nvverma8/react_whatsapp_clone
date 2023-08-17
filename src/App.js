@@ -8,7 +8,7 @@ import {useStateValue} from "./StateProvider";
 function App() {
   const [{ user }, dispatch] = useStateValue();
 
-  //Hosting URL: https://new-clone-ab04f.web.app 
+  //Hosting URL: https://new-clone-ab04f.web.app  
   
 
   
